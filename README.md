@@ -1,4 +1,9 @@
-### Aufgabe ist noch nicht komplett fertig, es is 01:16 und i bin müde (: ###
+
+ !!! Bei Lerneffekten stehen wieder Kommentare !!!    Aufgabe ist noch nicht komplett fertig, es is 01:16 und i bin müde (: 
+ 
+
+ 
+---
 
 
 
