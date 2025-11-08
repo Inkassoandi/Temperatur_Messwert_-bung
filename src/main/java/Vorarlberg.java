@@ -10,6 +10,11 @@ public class Vorarlberg extends Bundesland{
     }
 
     @Override
+    public String getName() {
+        return "Vorarlberg";
+    }
+
+    @Override
     public String toString() {
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");

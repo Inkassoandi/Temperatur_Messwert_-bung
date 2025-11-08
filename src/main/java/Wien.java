@@ -12,6 +12,11 @@ public class Wien extends Bundesland{
     }
 
     @Override
+    public String getName() {
+        return "Wien";
+    }
+
+    @Override
     public String toString() {
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");

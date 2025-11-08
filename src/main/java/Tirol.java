@@ -10,6 +10,11 @@ public class Tirol extends Bundesland{
     }
 
     @Override
+    public String getName() {
+        return "Tirol";
+    }
+
+    @Override
     public String toString() {
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");

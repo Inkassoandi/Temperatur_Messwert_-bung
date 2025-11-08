@@ -15,6 +15,7 @@ public abstract class Bundesland {
         this.measurementDate = measurementDate;
     }
 
+    public abstract String getName();
 
     public String getCity() {
         return city;

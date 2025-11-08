@@ -10,6 +10,11 @@ public class Steiermark extends Bundesland{
     }
 
     @Override
+    public String getName() {
+        return "Steiermark";
+    }
+
+    @Override
     public String toString() {
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");

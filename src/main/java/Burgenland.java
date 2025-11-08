@@ -10,6 +10,11 @@ public class Burgenland extends Bundesland{
     }
 
     @Override
+    public String getName() {
+        return "Burgenland";
+    }
+
+    @Override
     public String toString() {
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");

@@ -10,6 +10,11 @@ public class Oberösterreich extends Bundesland{
     }
 
     @Override
+    public String getName() {
+        return "Oberösterreich";
+    }
+
+    @Override
     public String toString() {
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");

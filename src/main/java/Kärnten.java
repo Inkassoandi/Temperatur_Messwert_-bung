@@ -10,6 +10,11 @@ public class Kärnten extends Bundesland{
     }
 
     @Override
+    public String getName() {
+        return "Kärnten";
+    }
+
+    @Override
     public String toString() {
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
